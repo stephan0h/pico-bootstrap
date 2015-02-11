@@ -1,0 +1,17 @@
+/* Structure Styles
+/*---------------------------------------------*/
+
+#header {
+	margin-bottom: 51px;
+}
+
+#content {
+  padding-top: 40px;
+}
+
+#footer {
+	padding: 60px 0;
+	margin-top: 80px;
+	background: #f1f1f1;
+	text-align: center;
+}
